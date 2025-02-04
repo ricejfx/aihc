@@ -1,9 +1,0 @@
-Histrogram - number of ICU visits by patient_id
-High visits count demographcs - we want to look at only 
-patients who are currently alive, as dead patients can't 
-go the ICU again
-
-ICU average stay time versus single visits
-For high count, visits over time
-Network diagram, what happens after admitted, where do they go? 
-
